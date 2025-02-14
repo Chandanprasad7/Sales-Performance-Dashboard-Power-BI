@@ -47,4 +47,10 @@ The Power BI dashboard includes the following **visualization charts**:
 3. Interact with the visuals, filters, and slicers to analyze sales trends.
 4. Connect to a data source if required and refresh the data.
 
-## Repository Structure
+
+## Contributions
+Contributions are welcome! If you have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## License
+This project is open-source and available under the MIT License.
+
